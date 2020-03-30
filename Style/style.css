@@ -1,0 +1,49 @@
+table, td 
+{
+  padding: 4px;
+  border:1px solid black;
+}
+body
+{  
+ background-color:orangered;
+}
+
+#modrabarva
+{
+    color:blue;
+}
+
+.fujbarva
+{
+    color:greenyellow;
+}
+
+.cervenepozadi
+{
+    background-color:red;
+}
+
+.fujpozadi
+{
+    background-color:greenyellow;
+}
+
+.img1
+{
+    width:450px; height:250px;
+}
+
+.img2
+{
+    width:400px; height:250px;
+}
+
+div div div div h3
+{
+    color:black;
+}
+
+body div p
+{
+    color:black;
+}
